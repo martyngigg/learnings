@@ -1,6 +1,8 @@
-# Things I Learned (TIL)
+# Learnings
 
-A collection of notes, code snippets and anything else useful that I've learned
-and may want to refer back to in the future.
+A collection of notes, references and anything else useful that I've learned
+about various topics.
 
-Topics are sorted into directories alphabetically based on their name.
+Topics are organized by directory:
+
+- [Containers](./containers/README.md)
