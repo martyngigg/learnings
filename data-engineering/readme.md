@@ -69,7 +69,7 @@ _Turns raw data into useful end product for use by_:
 
 #### Concepts
 
-- See general [storage](../storage/README.md)
+- See general [storage](../storage/readme.md)
 - [Data lake](./data-lake.md)
 
 #### Technologies

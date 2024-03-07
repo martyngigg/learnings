@@ -10,4 +10,4 @@ A list of storage-related ideas and technologies.
 
 ## Technologies
 
-- [MinIO](./minio/README.md)
+- [MinIO](./minio/readme.md)

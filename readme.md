@@ -5,6 +5,6 @@ about various topics.
 
 Topics are organized by directory:
 
-- [Containers](./containers/README.md)
-- [Programming](./programming/README.md)
-- [Storage](./storage/README.md)
+- [Containers](./containers/readme.md)
+- [Programming](./programming/readme.md)
+- [Storage](./storage/readme.md)
