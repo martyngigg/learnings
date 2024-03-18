@@ -7,7 +7,7 @@ Used to consolidate data from multiple sources without having to define an
 upfront schema with the ability to store structured, semi-structured and
 unstructured data types.
 
-## Advice
+## Useful reading
 
 - [Data Lake Planning](https://www.sqlchick.com/entries/2016/7/31/data-lake-use-cases-and-planning)
 - [Key considerations in designing your data lake](https://azure.github.io/Storage/docs/analytics/hitchhikers-guide-to-the-datalake/#key-considerations-in-designing-your-data-lake)
