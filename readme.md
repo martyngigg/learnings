@@ -8,6 +8,7 @@ about various topics.
 Topics are organized by directory:
 
 - [Containers](./containers/readme.md)
+- [Debugging and Profiling](./debugging-and-profiling/readme.md)
 - [Programming](./programming/readme.md)
 - [Storage](./storage/readme.md)
 
