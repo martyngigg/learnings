@@ -26,3 +26,6 @@ Query large datasets across multiple sources using ANSI SQL.
   - Formerly PrestoSQL
   - Fork of Presto when original developers left Facebook.
   - Trino developed to serve a broader audience, not just hyperscale companies
+- [StarRocks](https://www.starrocks.io/)
+  - Able to serve as just query engine as part of a lakehouse architecture, e.g
+    query Iceberg tables stored in an object store.
