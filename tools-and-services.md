@@ -6,6 +6,7 @@ A collection of tools/services/utilities useful while developing.
 
 - [JSON data explorer/editor](https://jsoncrack.com/editor):
   Visualize structure of JSON/YAML/TOML/XML/CSV data
+- [jq](https://jqlang.github.io/jq/manual/): Filtering tool for JSON data.
 
 ## Regex
 
