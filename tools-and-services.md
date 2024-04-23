@@ -2,6 +2,11 @@
 
 A collection of tools/services/utilities useful while developing.
 
+## File Format tools
+
+- [JSON data explorer/editor](https://jsoncrack.com/editor):
+  Visualize structure of JSON/YAML/TOML/XML/CSV data
+
 ## Regex
 
 - [Regex 101](https://regex101.com/): Test and debug regular expressions.
