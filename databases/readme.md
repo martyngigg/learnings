@@ -12,8 +12,11 @@
 ## Analytical
 
 - [StarRocks](https://www.starrocks.io/)
-  - New analytical database aiming for querying raw data directly within a
+  - Analytics database aiming for querying raw data directly within a
     lakehouse instead of having to maintain complex transformation pipelines.
+- [Apache Pinot](https://pinot.apache.org/)
+  - Analytics database with tabular model aiming to serve user-facing applications
+    directly with low latency, real-time freshness and high concurrency.
 
 ## Federated Query Engines
 
