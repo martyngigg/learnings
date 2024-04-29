@@ -8,7 +8,11 @@ about various topics.
 Topics are organized by directory:
 
 - [Containers](./containers/readme.md)
+- [Databases](./databases/readme.md)
 - [Debugging and Profiling](./debugging-and-profiling/readme.md)
+- [General tools/services](./tools-and-services.md)
+- [Orchestration](./orchestration/readme.md)
+- [Processing Frameworks](./processing-frameworks/readme.md)
 - [Programming](./programming/readme.md)
 - [Storage](./storage/readme.md)
 
@@ -16,6 +20,9 @@ Topics are organized by directory:
 
 - <https://news.ycombinator.com/>
 - <https://www.infoq.com/>
+- <https://medium.com>
+
+##
 
 ## Twitter/X accounts
 
