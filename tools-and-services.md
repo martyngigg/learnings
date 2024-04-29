@@ -27,3 +27,7 @@ A collection of tools/services/utilities useful while developing.
   what you think it does
 - [Launched](https://launched.zerowidth.com/): A launchd plist generator to create
   plist files for schedule tasks with [launchctl](https://ss64.com/mac/launchctl.html)
+
+## Testing
+
+- [https://github.com/public-apis/public-apis]: Collection of free APIs to help during development.
